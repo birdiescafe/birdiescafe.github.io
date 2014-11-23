@@ -14,5 +14,5 @@ That’s why we are feathering the nest for a different  non-profit animal organ
 
 Birdies will match up to $300 to the quarterly non-profit. Donation opportunity with your bill.
 
-> “Animals are my friends… and I don’t eat my friends ” 
+> “Animals are my friends… and I don’t eat my friends.” 
 <cite>– George Benard Shaw and Denise Tate</cite>
