@@ -1,7 +1,7 @@
 ---
+layout: page
 title: Birdies &heart; Animals | Birdies Cafe
-header: Birdies &heart; Animals | Birdies Cafe
-template: birdiestheme
+permalink: /animals/
 ---
 
 # Birdies &heart; Animals

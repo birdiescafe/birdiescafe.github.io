@@ -1,7 +1,7 @@
 ---
-template: birdiestheme
+layout: page
 title: Menu | Birdies Cafe
-header: Menu | Birdies Cafe
+permalink: /menu/
 ---
 
 # Breakfast menu

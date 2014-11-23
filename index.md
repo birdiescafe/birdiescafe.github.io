@@ -1,7 +1,7 @@
 ---
+layout: page
 title: Home | Birdies Cafe
-header: Birdies Cafe!
-template: birdiestheme
+permalink: /
 ---
 
 # Are you feeling peckish?

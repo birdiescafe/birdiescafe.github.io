@@ -1,7 +1,7 @@
 ---
+layout: page
 title: Events | Birdies Cafe
-header: Birdies Cafe!
-template: birdiestheme
+permalink: /events/
 ---
 
 # Private parties and special events
