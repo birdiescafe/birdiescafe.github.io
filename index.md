@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /
+permalink: /home/
 ---
 
 # Are you feeling peckish?
