@@ -25,7 +25,9 @@ Open 7 days a week from 7 a.m. to 2 p.m.
 ## Contact
 
 Restaurant phone: 541-728-0753
-Cell: 
+
+Cell: 541-678-1016
+
 Email: denise@birdiescafebend.com
 
 >“Never work before breakfast; if you have to work before breakfast, eat your breakfast first.”
