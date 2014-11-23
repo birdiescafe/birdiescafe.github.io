@@ -6,8 +6,6 @@ permalink: /home/
 
 # Are you feeling peckish?
 
-<logo>
-
 ## Where hungry birds of a feather flock together!
 
 Birdies Cafe is an Americana-themed restaurant in Bend, Oregon, serving breakfast and lunch 7 days a week.
