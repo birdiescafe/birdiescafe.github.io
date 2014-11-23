@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events | Birdies Cafe
+title: Events
 permalink: /events/
 ---
 

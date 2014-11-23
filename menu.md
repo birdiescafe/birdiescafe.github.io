@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Menu | Birdies Cafe
+title: Menu
 permalink: /menu/
 ---
 

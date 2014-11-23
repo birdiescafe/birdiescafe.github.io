@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home | Birdies Cafe
+title: Home
 permalink: /
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Birdies &heart; Animals | Birdies Cafe
+title: Birdies (heart) Animals
 permalink: /animals/
 ---
 

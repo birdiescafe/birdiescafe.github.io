@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About | Birdies Cafe
+title: About
 permalink: /about/
 ---
 
