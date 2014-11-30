@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Birdies (heart) Animals
+title: Birdies ♥ Animals
 permalink: /animals/
 ---
 
-# Birdies (heart) Animals
+![The Pug Wall at Birdies.](../img/pugwall.jpg)
 
 During our time in Central Oregon we have rescued many, many animals.  We want to make a difference in the way all animals are treated. 
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About us
+![From left, Denise and Chris Tate.](../img/aboutus.jpg)
 
 ## Chris Tate | Owner, Executive Chef
 

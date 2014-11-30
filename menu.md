@@ -4,11 +4,11 @@ title: Menu
 permalink: /menu/
 ---
 
-# Breakfast menu
+## Breakfast menu
 
 Served 7 a.m. to 2 p.m.
 
-## Wake up call (breakfast entrees)
+### Wake up call (breakfast entrees)
 Served with your choice of potatoes or rice & beans
 
 - Birdies Breakfast* **$8**
@@ -29,7 +29,7 @@ Two poached eggs nested on top of savory spinach and onion herb pancakes with fr
 - Pacific Northwest Benny* **$11**
 Two poached eggs nested on top of savory spinach and onion herb pancakes with blackened wild salmon and braised greens, drenched in housemade hollandaise. 
 
-## Hot or crunchy
+### Hot or crunchy
 
 - Scottish Oatmeal **$6**
 Creamy and delicious. Made with currants and served with toast and fresh fruit.
@@ -37,7 +37,7 @@ Creamy and delicious. Made with currants and served with toast and fresh fruit.
 - Vermont Style Granola **$6**
 Crunchy maple laced granola filled with dried fruit, nuts and seeds of all sorts, served with Greek yogurt and fresh fruit.
 
-## Birdies Specials
+### Birdies Specials
 
 Chef-prepared with the freshest ingredients
 
@@ -56,7 +56,7 @@ Crunchy fried chicken covered in sausage gravy. Served with braised greens, pota
 - Tofu Hash Deluxe **$8**
 Savory and delicious tofu and veggie hash served with choice of potatoes or beans and rice, and toast.
 
-## Sweet off the griddle
+### Sweet off the griddle
 
 - Buttermilk Johnny Cakes **$7**
 Three tender cornmeal-laced pancakes served with fresh fruit. _Add seasonal fruit compote $2_
@@ -85,12 +85,12 @@ A yummy malted waffle served with fresh fruit. _Add seasonal fruit compote $2_
 - Cottage cheese **$3**
 - Cinnamon roll **$2**
 
-Substitute fruit for hash browns, $1. Substitute English muffin or biscuit for toast, **$1.**
+Substitute fruit for hash browns, **$1**. Substitute English muffin or biscuit for toast, **$1.**
 
 >“My weaknesses have always been food and men — in that order.” 
 <cite>–Dolly Parton</cite>
 
-# Lunch menu
+## Lunch menu
 
 Served daily after 11:30 a.m.
 
@@ -134,7 +134,7 @@ Vegan tofu “neat loaf” served with Spanish Brava sauce on a housemade focacc
 - Savory Lentil Burger **$7**
 Housemade lentil patty filled with mushrooms, veggies, walnuts and oats. Gluten free!
 
-## Beverages
+### Beverages
 - Coffee (Caffe Umbria) **$2**
 - Small or large fresh-squeezed orange or grapefruit juice **$3/$5**
 - Other juice **$2/$4**
@@ -144,15 +144,15 @@ Housemade lentil patty filled with mushrooms, veggies, walnuts and oats. Gluten 
 - Milk **$2**
 - Hot chocolate **$2**
 
-## From the bakery
+### From the bakery
 
 Housemade Cinnamon Rolls, Bagels, Muffins, and other tasty treats baked daily. Ask your server for todays selection!
 
-Note: 18% gratuity may be charged on parties of 6 or more. Gluten free, vegetarian, and vegan options available, substitutions welcome.
+**Note:** 18% gratuity may be charged on parties of 6 or more. Gluten free, vegetarian, and vegan options available, substitutions welcome.
 
 *Consuming raw or uncooked meats, poultry, seafood, shellfish, or eggs may increase your risk of food borne illness
 
-# Drinks menu
+## Drinks menu
 
 Served all day
 

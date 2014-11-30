@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Birdies Cafe
 permalink: /
 ---
 
-# Are you feeling peckish?
+![Birdies logo](img/logo.png)
 
-## Where hungry birds of a feather flock together!
+{:.flock}
+### <em>Where hungry birds of a feather flock together!</em>
+
+{:.peckish}
+# Are you feeling <em>peckish?</em>
 
 Birdies Cafe is an Americana-themed restaurant in Bend, Oregon, serving breakfast and lunch 7 days a week.
 
-Have a look at our [menu](/menu), read [our story](/about), check out some of the [events we host](/events) or read about our [work with animals](/animals).
+Have a look at our [menu](menu), read [our story](about), check out some of the [events we host](events) or read about our [work with animals](/animals).
 
 ## Location
 
@@ -24,11 +27,11 @@ Open 7 days a week from 7 a.m. to 2 p.m.
 
 ## Contact
 
-Restaurant phone: 541-728-0753
+Restaurant phone: [541-728-0753](tel:541-728-0753)
 
-Cell: 541-678-1016
+Cell: [541-678-1016](tel:541-678-1016)
 
-Email: denise@birdiescafebend.com
+Email: [denise@birdiescafebend.com](mailto:denise@birdiescafebend.com)
 
 >“Never work before breakfast; if you have to work before breakfast, eat your breakfast first.”
 <cite>– Josh Billings</cite>
