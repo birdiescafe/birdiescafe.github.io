@@ -11,61 +11,64 @@ Served 7 a.m. to 2 p.m.
 ### Wake up call (breakfast entrees)
 Served with your choice of potatoes or rice & beans
 
-- Birdies Breakfast* **$8**
+- Birdies Breakfast* **$8**  
 Two eggs any style. Served with toast and your choice of bacon, sausage, ham, or veggie sausage.
 
-- Southwestern Scramble **$8**
+- Southwestern Scramble **$8**  
 Three eggs scrambled with Hatch green chili, cheddar cheese, cilantro, tomatoes, green onions and fresh salsa. Served with toast.
 
-- Mushroom Scramble **$8**
+- Mushroom Scramble **$8**  
 Three eggs scrambled with mushrooms, fresh spinach, Swiss cheese and onions. Served with toast.
 
-- Classic Benny* **$9**
+- Classic Benny* **$9**  
 Two poached eggs nested on top of Pendelton Hill ham and English muffin, drenched in housemade fresh hollandaise.
 
-- New Mexico Benny* **$11**
+- New Mexico Benny* **$11**  
 Two poached eggs nested on top of savory spinach and onion herb pancakes with fried chicken, Hatch chilies and drenched in housemade fresh hollandaise.
 
-- Pacific Northwest Benny* **$11**
+- Pacific Northwest Benny* **$11**  
 Two poached eggs nested on top of savory spinach and onion herb pancakes with blackened wild salmon and braised greens, drenched in housemade hollandaise. 
 
 ### Hot or crunchy
 
-- Scottish Oatmeal **$6**
+- Scottish Oatmeal **$6**  
 Creamy and delicious. Made with currants and served with toast and fresh fruit.
 
-- Vermont Style Granola **$6**
+- Vermont Style Granola **$6**  
 Crunchy maple laced granola filled with dried fruit, nuts and seeds of all sorts, served with Greek yogurt and fresh fruit.
 
 ### Birdies Specials
 
 Chef-prepared with the freshest ingredients
 
-- Spanish Style Potatoes and Eggs* **$8**
+- Spanish Style Potatoes and Eggs* **$8**  
 Fried Idaho potatoes tossed with smoky Spanish Brava tomato sauce topped with two eggs, braised greens, and drizzled with garlic aïoli. Served with toast.
 
-- Route 66 Biscuit Sandwich **$6**
-Homemade biscuit topped with crispy fried chicken, cheddar cheese and garlic aïoli. _Add egg* $1 Add bacon $2 Add braised greens $1_
+- Route 66 Biscuit Sandwich **$6**  
+Homemade biscuit topped with crispy fried chicken, cheddar cheese and garlic aïoli.  
+_Add egg* $1 Add bacon $2 Add braised greens $1_
 
-- Classic Combo* **$8**
+- Classic Combo* **$8**  
 A retro combination of pork sausage gravy served over a biscuit and potatoes. Served with two eggs any style.
 
-- Memphis Chicken Fried Chicken **$9**
+- Memphis Chicken Fried Chicken **$9**  
 Crunchy fried chicken covered in sausage gravy. Served with braised greens, potatoes and a biscuit.
 
-- Tofu Hash Deluxe **$8**
+- Tofu Hash Deluxe **$8**  
 Savory and delicious tofu and veggie hash served with choice of potatoes or beans and rice, and toast.
 
 ### Sweet off the griddle
 
-- Buttermilk Johnny Cakes **$7**
-Three tender cornmeal-laced pancakes served with fresh fruit. _Add seasonal fruit compote $2_
+- Buttermilk Johnny Cakes **$7**  
+Three tender cornmeal-laced pancakes served with fresh fruit.  
+_Add seasonal fruit compote $2_
 
-- Chocolate Stout Pancakes **$8**
+- Chocolate Stout Pancakes **$8**  
 Three chocolate stout-laced pancakes served with fresh seasonal fruit… Cheers!
 
-- Malted Belgian Style Waffle **$7**
-A yummy malted waffle served with fresh fruit. _Add seasonal fruit compote $2_
+- Malted Belgian Style Waffle **$7**  
+A yummy malted waffle served with fresh fruit.  
+_Add seasonal fruit compote $2_
 
 ## Simple Sides
 
@@ -96,42 +99,43 @@ Served daily after 11:30 a.m.
 
 ## Soups and salads
 _Add crispy chicken for **$3** or blackened salmon for **$4**_
-- Soup of the day
-Cup **$3**	Bowl **$5**
+- Soup of the day  
+Cup **$3**	Bowl **$5**  
 Ask your server!
 
-- Signature Caesar Salad **$6**
+- Signature Caesar Salad **$6**  
 Fresh Romaine, house-made croutons and Parmesan cheese tossed in our light Greek yogurt-based dressing. Spicy, lemony, garlicy deliciousness!
 
-- Winter Quinoa Salad **$7**
+- Winter Quinoa Salad **$7**  
 Pinto beans, apples, cucumber, tomatoes, basil, broccoli and quinoa tossed in a balsamic vinaigrette and served with mixed greens. 
 
-- Farmers Market Green Salad **$6**
+- Farmers Market Green Salad **$6**  
 Mixed greens topped with all sorts of veggies and house-made croutons.
 
 ## Burgers and Sandwiches
-_Sandwiches come with lettuce, tomato, onion, pickle and choice of fries, green salad or soup._
+
+_Sandwiches come with lettuce, tomato, onion, pickle and choice of fries, green salad or soup._  
 _Add bacon **$3** Add sautéed mushrooms **$1** Add fried egg* **$1** Add avocado **$2** Add Hatch chili con queso **$2**_
 
-- Birdies Burger* **$7**
+- Birdies Burger* **$7**  
 Handmade and seasoned 1/3 lb. beef patty served with your choice of cheese on a housemade focaccia bun.
 
-- Nashville Fried Chicken Sandwich **$8**
+- Nashville Fried Chicken Sandwich **$8**  
 Super crispy fried chicken filet served with jalapeno ranch dressing on a housemade focaccia bun.
 
-- California BLTA **$8**
+- California BLTA **$8**  
 Bacon, lettuce, tomato and avocado served on housemade focaccia or toast of choice.
 
-- Blackened Salmon Filet **$9**
+- Blackened Salmon Filet **$9**  
 Served with warm quinoa and savory broccoli.
 
-- Bayou Blackened Northwest Wild Salmon Sandwich **$9**
+- Bayou Blackened Northwest Wild Salmon Sandwich **$9**  
 Spicy salmon filet served with garlic aïoli on housemade focaccia bun.
 
-- Neat Loaf Sandwich **$7**
+- Neat Loaf Sandwich **$7**  
 Vegan tofu “neat loaf” served with Spanish Brava sauce on a housemade focaccia bun.
 
-- Savory Lentil Burger **$7**
+- Savory Lentil Burger **$7**  
 Housemade lentil patty filled with mushrooms, veggies, walnuts and oats. Gluten free!
 
 ### Beverages
@@ -156,24 +160,24 @@ Housemade Cinnamon Rolls, Bagels, Muffins, and other tasty treats baked daily. A
 
 Served all day
 
-- Birdies Bloody Mary **$8**
-We garnish our Marys with salami, so let us know if you want it vegetarian style!
+- Birdies Bloody Mary **$8**  
+We garnish our Marys with salami, so let us know if you want it vegetarian style!  
 _Upgrade to Crater Lake Pepper Vodka **$9**_
 
-- Sparkle Donkey Tequila Sunrise **$9**
+- Sparkle Donkey Tequila Sunrise **$9**  
 Seriously, why wouldn’t we use Tequila with a sparkle donkey on the label?
 
-- Breakfast Bubbles **$8**
+- Breakfast Bubbles **$8**  
 Mixed with orange, grapefruit, cranberry, or pomegranate juice
 
-- Warm and Cozy Coffee Drinks **$8**
+- Warm and Cozy Coffee Drinks **$8**  
 Made with Kahlua, Baileys, Frangelico or Jameson
 
-- Beer and Cider on Tap **$4.50**
+- Beer and Cider on Tap **$4.50**  
 
-- Wine by the Glass **$7**
+- Wine by the Glass **$7**  
 
-- Huber’s-Inspired Spanish Coffee **$10**
+- Huber’s-Inspired Spanish Coffee **$10**  
 Sorry we can’t do this one tableside, but there will be flames behind the bar!
 
 > “Hey yogurt, if you’re so cultured, how come I never see you at the opera?”
