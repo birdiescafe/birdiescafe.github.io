@@ -15,6 +15,8 @@ Birdies Cafe is an Americana-themed restaurant in Bend, Oregon, serving breakfas
 
 Have a look at our [menu](menu), read [our story](about), check out some of the [events we host](events) or read about our [work with animals](animals).
 
+![Your Birdies table is waiting](img/newpix/JPEG/05-31-17_BirdiesCafe-0023.jpg)
+
 ## Location
 
 We're located on the west side of Bend near Central Oregon Community College.
@@ -35,3 +37,5 @@ Email: [{{ site.email }}](mailto:{{ site.email }})
 
 >“Never work before breakfast; if you have to work before breakfast, eat your breakfast first.”
 <cite>– Josh Billings</cite>
+
+![View toward the bar](img/newpix/JPEG/05-31-17_BirdiesCafe-0006.jpg)

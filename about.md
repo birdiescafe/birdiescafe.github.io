@@ -50,5 +50,7 @@ _Wish for the world?_
 
 No more homeless pets… Please adopt from a shelter or rescue. Ask me how!
 
+![The pug wall](/img/newpix/JPEG/05-31-17_BirdiesCafe-0008.jpg)
+
 > “A quote? Why do you want a quote? Can we get back to you? We’re not famous yet.“
 <cite>– Chris & Denise Tate</cite>

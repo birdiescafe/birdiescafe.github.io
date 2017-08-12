@@ -4,11 +4,11 @@
     <title>Birdies Cafe</title>
     <description>Birdies Cafe is an Americana-themed restaurant in Bend, Oregon, serving breakfast and lunch 7 days a week.
 </description>
-    <link>https://ajzeigert.github.io/birdiescafe/</link>
-    <atom:link href="https://ajzeigert.github.io/birdiescafe/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 30 Nov 2014 13:29:26 -0800</pubDate>
-    <lastBuildDate>Sun, 30 Nov 2014 13:29:26 -0800</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 12 Aug 2017 14:12:41 -0700</pubDate>
+    <lastBuildDate>Sat, 12 Aug 2017 14:12:41 -0700</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
     
   </channel>
 </rss>
