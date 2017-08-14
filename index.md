@@ -25,7 +25,7 @@ We're located on the west side of Bend near Central Oregon Community College.
 
 ## Hours
 
-Open 7 days a week from 7 a.m. to 2 p.m.
+Open 7 days a week from 7 a.m. to 2-ish.
 
 ## Contact
 
