@@ -12,9 +12,13 @@
         <ul class="contact-list">
           <li>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           <li>Restaurant phone: <a href="tel:541-728-0753">541-728-0753</a></li>
-          <li>Cell: <a href="tel:541-678-1016">541-678-1016</a></li>
           {% if site.twitter_username %}
           <li>Twitter: <a href="https://twitter.com/{{ site.twitter_username }}"><span class="username">{{ site.twitter_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+          {% if site.facebook_username %}
+          <li>Facebook: <a href="https://facebook.com/{{ site.facebook_username }}"><span class="username">@{{ site.facebook_username }}</span>
             </a>
           </li>
           {% endif %}

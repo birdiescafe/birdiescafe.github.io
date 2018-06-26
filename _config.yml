@@ -1,11 +1,12 @@
 # Site settings
 title: Birdies Cafe
-email: birdiescafe@yahoo.com
+email: birdiescafebend@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   Birdies Cafe is an Americana-themed restaurant in Bend, Oregon, serving breakfast and lunch 7 days a week.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://birdiescafe.github.io" # the base hostname & protocol for your site
 twitter_username:
+facebook_username: BirdiesCafeBend
 
 # Build settings
 markdown: kramdown

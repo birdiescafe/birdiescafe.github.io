@@ -28,12 +28,9 @@ WDB events at Birdies are destined to take you on culinary journeys that are fun
 
 Contact Denise Tate at [541.678.1016](tel:541.678.1016) or [{{ site.email }}](mailto:{{ site.email }}) for further details.
 
-Birdies Café Owners Chris and Denise Tate invite you to their Wine▪Dine▪Bend events that showcase the “funkiest wine shop in town” Bend Wine Cellar.
+Executive Chef Jeremy Buck and his culinary team will take care of you with a variety of delicious menu options in an ideal setting for gatherings of up to 40 people.
 
-Birdies also recommends that you sign up for the BWC newsletter
-for all the best wine deals in town and wine dinner events at Birdies.
-
-[www.bendwinecellar.com](www.bendwinecellar.com)
+Contact Lian Schmidt at 541.728.0753 or birdiescafebend@outlook.com for further details.
 
 > “If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.”
 <cite>– J.R.R. Tolkien</cite>
