@@ -26,8 +26,6 @@ Enjoy evenings of elegant wines selected and presented by Master Wine Curator, D
 
 WDB events at Birdies are destined to take you on culinary journeys that are fun and scrumptious.  Experiences not to be missed.
 
-Contact Denise Tate at [541.678.1016](tel:541.678.1016) or [{{ site.email }}](mailto:{{ site.email }}) for further details.
-
 Executive Chef Jeremy Buck and his culinary team will take care of you with a variety of delicious menu options in an ideal setting for gatherings of up to 40 people.
 
 Contact Lian Schmidt at 541.728.0753 or birdiescafebend@outlook.com for further details.

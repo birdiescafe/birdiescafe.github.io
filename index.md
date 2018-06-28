@@ -13,8 +13,6 @@ permalink: /
 
 Birdies Cafe is an Americana-themed restaurant in Bend, Oregon, serving breakfast and lunch 7 days a week.
 
-Have a look at our [menu](menu), read [our story](about), check out some of the [events we host](events) or read about our [work with animals](animals).
-
 ![Your Birdies table is waiting](img/newpix/JPEG/05-31-17_BirdiesCafe-0023.jpg)
 
 ## Location
