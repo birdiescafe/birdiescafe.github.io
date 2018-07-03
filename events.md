@@ -22,10 +22,6 @@ unless there are three other people.”
 
 # Wine dinners
 
-Enjoy evenings of elegant wines selected and presented by Master Wine Curator, Dennis Sienko, paired with menus specially created by Executive Chef Chris Tate and his culinary team.
-
-WDB events at Birdies are destined to take you on culinary journeys that are fun and scrumptious.  Experiences not to be missed.
-
 Enjoy evenings of elegant wines selected and presented by Master Wine Curator, Dennis Sienko, paired with menus specially created by Executive Chef Jeremy Buck and his culinary team.
 
 Contact Lian Schmidt at [541-728-0753](tel:541-728-0753) or [{{ site.email }}](mailto:{{ site.email }}) for further details.
