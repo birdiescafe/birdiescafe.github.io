@@ -3,7 +3,11 @@ layout: page
 title: Events
 permalink: /events/
 ---
-
+---
+layout: page
+<!-- title: About -->
+permalink: /about/
+---
 # Private parties and special events
 
 Birdies offers a variety of options for private parties, all custom tailored to suit your needs.  
