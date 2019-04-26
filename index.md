@@ -6,9 +6,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-P3R25GL');</script>
 <!-- End Google Tag Manager -->
 ---
-layout: page
-permalink: /
----
 
 ![Birdies logo](img/logo.png)
 
