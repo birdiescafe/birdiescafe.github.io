@@ -19,12 +19,6 @@ Birdies Cafe is an Americana-themed restaurant in Bend, Oregon, serving breakfas
 
 ![Your Birdies table is waiting](img/newpix/JPEG/05-31-17_BirdiesCafe-0023.jpg)
 
----
-layout: page
-title: Menu
-permalink: /Menu/
----
-
 ![Breakfast spread](/img/newpix/JPEG/05-31-17_BirdiesCafe-0060.jpg)
 
 <small><em><strong>Select dishes, clockwise from bottom left:</strong> Cheese Burger, Belgian-Style Waffle, Spanish-Style Potatoes and Eggs, Texas-Style Huevos Rancheros, Birdies' House-Smoked Salmon and Bagel Plate. Select drinks, clockwise from bottom left: coffee, Breakfast Bubbles, Derek's Breakfast Martini, tea, Bloody Mary.</em></small>
