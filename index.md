@@ -239,7 +239,7 @@ _Gluten free, vegetarian, and vegan options available, substitutions welcome_
 
 **Consuming raw or uncooked meats, poultry, seafood, shellfish or eggs may increase your risk of food borne illness.*
 
-(Updated 4/13/19)
+(Updated 4/26/19)
 
 
 ## Location
