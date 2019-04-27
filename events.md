@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Events
-permalink: /events/
+title: Menu
+permalink: /Menu/
 ---
 # Private parties and special events
 
