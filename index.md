@@ -20,7 +20,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 {:.peckish}
 # Are you feeling <em>peckish?</em>
 
-Welcome to Bend's westside diner. We are an Americana-themed restaurant in serving breakfast and lunch 7 days a week.
+## Welcome to Bend's westside diner. We are an Americana-themed restaurant serving breakfast and lunch 7 days a week.
 
 ![Your Birdies table is waiting](img/newpix/JPEG/05-31-17_BirdiesCafe-0023.jpg)
 
