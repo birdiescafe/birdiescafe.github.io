@@ -233,6 +233,7 @@ House bubbles, raspberry vodka, pineapple and pomegranate.
 - Sodas
 - Milk
 - Hot chocolate
+- Hot chai
 
 ![Food time](/img/newpix/JPEG/05-31-17_BirdiesCafe-0053.jpg)
 
@@ -244,7 +245,7 @@ _Gluten free, vegetarian, and vegan options available, substitutions welcome_
 
 **Consuming raw or uncooked meats, poultry, seafood, shellfish or eggs may increase your risk of food borne illness.*
 
-(Updated 4/26/19)
+(Updated 4/27/19)
 
 
 ## Location
@@ -259,7 +260,7 @@ We're located on the west side of Bend near Central Oregon Community College.
 
 Open 7 days a week from 7am - 1:30pm.
 Breakfast served all day, everyday.
-Lunch served 11:30am - 1:30 pm. <i>Sorry no lunch on Sundays!</i>
+Lunch served 11:30am - 1:30 pm.  <i>Sorry, no lunch on Sundays!</i>
 
 ## Contact
 
