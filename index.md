@@ -121,7 +121,7 @@ Your choice of housemade plain or everything bagel with house-smoked salmon, fre
 Savory tofu and roasted vegetable hash topped with Brava tomato sauce. Served with choice of hash browns or beans and rice, and toast.
 
 ## Lunch Entrees
-11:30 am to 1:30 pm. Sorry, no lunch on Sundays!
+11:30 am to 1:30 pm. <i>Sorry, no lunch on Sundays!</i>
 
 ### Soups and Salads
 Add crispy chicken $2. Add blackened salmon $4.
