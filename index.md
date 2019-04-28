@@ -250,7 +250,7 @@ _Gluten free, vegetarian, and vegan options available, substitutions welcome_
 
 ## Location
 
-We're located on the west side of Bend near Central Oregon Community College.
+We're located on the west side of Bend near Central Oregon Community College, just off Newport.
 
 1444 NW College Way Ste. 1, Bend, OR 97703
 
