@@ -260,7 +260,7 @@ We're located on the west side of Bend near Central Oregon Community College, ju
 
 Open 7 days a week from 7am - 1:30pm.
 Breakfast served all day, everyday.
-Lunch served 11:30am - 1:30 pm.  <i>Sorry, no lunch on Sundays!</i>
+Lunch served 11:30 am - 1:30 pm.  <i>Sorry, no lunch on Sundays!</i>
 
 ## Contact
 
