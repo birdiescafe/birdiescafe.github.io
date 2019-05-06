@@ -46,6 +46,9 @@ Three egg open-faced omelet with mushrooms, fresh spinach, Swiss cheese and onio
 #### Classic Benny* - $14
 Two poached eggs nested on top of Pendleton Hill ham and an English muffin with housemade fresh hollandaise.
 
+#### Veggie Benny* - $14
+Two poached eggs on an English muffin, veggie sausage and seasonal vegetables. Smothered with house-made fresh hollandaise.
+
 #### New Mexico Benny* - $14
 Two poached eggs nested on top of spinach, onion and herb pancakes with fried chicken, Hatch chiles with housemade fresh hollandaise.
 
@@ -89,6 +92,9 @@ A yummy malted waffle dusted with powdered sugar.
 #### Cincinnati Short Stack - $13
 Two buttermilk johnny cakes served with two eggs any style.
 
+#### Banana-Nut Cakes - $12
+Three Johnny cakes griddled with bananas and chopped candied walnuts. Add whipped cream for $1.
+
 ### Breakfast Specials
 
 ### Biscuits and Things
@@ -102,8 +108,8 @@ Cornflake-crusted fried chicken served with braised collard greens, hash browns 
 #### Route 66 Sandwich - $9
 Homemade buttermilk biscuit topped with fried chicken, cheddar cheese and garlic aïoli. Served with hash browns. Add an egg or bacon for $2.
 
-#### Hwy 97 Sandwich - $12
-Birdies' biscuit with smoked pit ham, sweet cream butter, whole grain mustard and tomato jam. Served with a two-egg cheddar cheese omelet and slices of fresh tomato.
+#### Green Chile Biscuit - $9
+Homemade buttermilk biscuit with bacon and a two-egg green chile, cheddar cheese omelet. Served with rice and beans or hash browns and tomato jam.
 
 ### Birdies' Specials
 
@@ -116,6 +122,9 @@ Two eggs any style with crispy and soft corn tortillas, cheddar cheese, salsa an
 #### Spanish Style Potatoes and Eggs* - $12
 Fried potatoes on slices of pit ham topped with roasted bell peppers and onions, two eggs and smoky Brava tomato sauce. Drizzed with Spanish aioli and served with toast.
 
+#### Vegetarian Spanish Potatoes* - $12
+Fried potatoes with roasted bell peppers and onions, avocado, two eggs and a smoky tomato sauce. Drizzled with Spanish aioli and served with toast.
+
 #### Chicken & Waffles - $12
 Birdies' cornflake-coated chicken breast served with a malted waffle and maple syrup. Add gravy for $3.
 
@@ -124,6 +133,9 @@ Your choice of housemade plain or everything bagel with house-smoked salmon, fre
 
 #### Tofu Hash Deluxe - $11
 Savory tofu and roasted vegetable hash topped with Brava tomato sauce. Served with choice of hash browns or beans and rice, and toast.
+
+#### Breakfast Burrito - $12
+Flour tortilla stuffed with spicy pork adovada, hash browns, scrambled eggs and cheddar cheese. Served with pinto beans, tomato, cilantro and sour cream.
 
 ## Lunch Entrees
 11:30 am to 1:30 pm. <i>Sorry, no lunch on Sundays!</i>
