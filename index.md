@@ -140,7 +140,7 @@ Flour tortilla stuffed with spicy pork adovada, hash browns, scrambled eggs and 
 ## Lunch Entrees
 11:30 am to 1:30 pm. <i>Sorry, no lunch on Sundays!</i>
 
-### Soups and Salads
+### Soup and Salads
 Add crispy chicken $2. Add blackened salmon $4.
 Dressing choices: Roasted tomato-chipotle, cilantro-avocado, ranch, balsamic, blue cheese, and blue cheese vinaigrette.
 
@@ -257,7 +257,7 @@ _Gluten free, vegetarian, and vegan options available, substitutions welcome_
 
 **Consuming raw or uncooked meats, poultry, seafood, shellfish or eggs may increase your risk of food borne illness.*
 
-(Updated 4/27/19)
+(Updated 5/6/19)
 
 
 ## Location
