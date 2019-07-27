@@ -236,7 +236,7 @@ House bubbles, raspberry vodka, pineapple and pomegranate.
 ### Non-Alcoholic Beverages
 - Riff Cold Brew $5
 - Kombucha $5
-- Caffe Umbria Coffee - $3.50
+- Caffe Umbria Coffee - $3.75
 - Small or large orange, apple, cranberry, pomegranate, tomato or grapefruit juice $3, $5
 - Lemonade, cherry lemonade, strawberry lemonade
 - Arnold Palmer
