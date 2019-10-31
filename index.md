@@ -188,20 +188,6 @@ House-smoked pork shoulder smothered with BBQ sauce and topped with onion rings 
 #### Lentil Burger $10
 Housemade lentil patty filled with mushrooms, veggies, walnuts and oats on a housemade focaccia bun with garlic aioli.
 
-### More Lunch Stuff
-
-#### Carne Adovada $10
-Spicy New Mexican red chile pork slow cooked until tender. Served with pinto beans, corn tortillas, lettuce and tomato.
-
-#### Shrimp Etouffee $10
-Sauteed prawns smothered in a rich Cajun-spiced sauce with onions, bell peppers, celery and tomatoes. Served with rice and lemon. Choice of soup or salad.
-
-#### Saffron-Garlic Pasta $10
-Fusilli pasta tossed with seasonal vegetables and a garlic-saffron cream sauce. Served with Parmigiano-Reggiano. Add grilled chicken or shrimp for $2.
-
-#### Chile Verde Burrito $10
-Flour tortilla filled with slow cooked pork in a jalapeno-tomatillo sauce and Monterey jack cheese. Served with pinto beans, lettuce, tomato and sour cream.
-
 ## Drink Menu
 
 ### Birdies' Birdbath
