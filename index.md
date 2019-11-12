@@ -26,7 +26,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 ![Breakfast spread](/img/newpix/JPEG/05-31-17_BirdiesCafe-0060.jpg)
 
-<small><em><strong>Select dishes, clockwise from bottom left:</strong> Cheese Burger, Belgian-Style Waffle, Spanish-Style Potatoes and Eggs, Texas-Style Huevos Rancheros, Birdies' House-Smoked Salmon and Bagel Plate. Select drinks, clockwise from bottom left: coffee, Breakfast Bubbles, Derek's Breakfast Martini, tea, Bloody Mary.</em></small>
+<small><em><strong>Select dishes, clockwise from bottom left:</strong> Cheeseburger, Belgian-Style Waffle, Spanish-Style Potatoes and Eggs, Texas-Style Huevos Rancheros, Birdies' House-Smoked Salmon and Bagel Plate. Select drinks, clockwise from bottom left: coffee, Breakfast Bubbles, Derek's Breakfast Martini, tea, Bloody Mary.</em></small>
 
 ## Breakfast
 7 am to 1:30 pm
@@ -142,12 +142,12 @@ Flour tortilla stuffed with spicy pork adovada, hash browns, scrambled eggs and 
 
 ### Soup and Salads
 Add crispy chicken $2. Add blackened salmon $4.
-Dressing choices: Roasted tomato-chipotle, cilantro-avocado, ranch, balsamic, blue cheese, and blue cheese vinaigrette.
+Dressing choices: Roasted tomato-chipotle, cilantro-avocado, ranch, balsamic, blue cheese.
 
 #### Soup of the Day
 Ask your server!
 - Cup $4
-- Bowl $7
+- Bowl $6
 
 #### Southwest Chicken Salad $10
 Romaine lettuce, tomato, black beans, corn, avocado, quinoa and Birdies' fried chicken. Served with roasted tomato-chipotle, dressing, lime and cilantro.
@@ -155,31 +155,28 @@ Romaine lettuce, tomato, black beans, corn, avocado, quinoa and Birdies' fried c
 #### Green Garden Salad $10
 Mixed lettuces, cucumber, radish, tomato, carrots and peas. Served with focaccia croutons and choice of dressing.
 
-#### Oregon Salad $10
-Mixed lettuces, pear, candied walnuts and red onion tossed with blue cheese vinaigrette. Topped with cranberry-pumpkin seed crackers.
-
-#### Avocado Caesar $10
+#### Avocado Caesar $9
 Romaine lettuce tossed with a roasted garlic, avocado and lime dressing, grated parmesan, tomato, avocado and croutons.
 
 ### Burgers and Sandwiches
-Burgers come with Romaine lettuce, tomato, onion and pepperoncini. All items choice of Chimayo Chile-parmesan fries, green salad, soup or coleslaw.
+All items choice of Chimayo Chile-parmesan fries, green salad, soup or collard greens.
 
-#### Hatch Chile Burger - $10
-Seasoned 1/3 lb. beef patty, New Mexican green chiles, bacon, mushrooms and jack cheese on a housemade focaccia bun with garlic aioli.
+#### Hatch Chile Burger - $11
+Seasoned 1/2 lb. beef patty, New Mexican green chiles, bacon, mushrooms and jack cheese on a housemade focaccia bun with garlic aioli.
 
 #### Cheeseburger - $10
-Seasoned 1/3 lb. beef patty with your choice of cheese on a focaccia bun with garlic aioli.
+Seasoned 1/2 lb. beef patty with your choice of cheese on a focaccia bun with garlic aioli.
 
-#### Guacamole Burger - $10
-1/3 lb. beef patty, guacamole and pepper jack cheese on a focaccia bun.
+#### Spicy Chorizo Burger - $10
+Seasoned 1/2 lb. beef patty topped with pork chorizo and a fried egg on a focaccia bun.
 
-#### Fried Chicken Sandwich - $10
-Fried buttermilk-marinated chicken thighs on a brioche bun with chipotle aioli, tomato jam and romaine lettuce.
+#### Nashville Chicken Sandwich - $10
+Birdies' fried chicken breast on a focaccia bun with jalapeño ranch dressing.
 
 #### California BLTA - $10
 Bacon, lettuce, tomato, avocado and garlic aioli served on housemade focaccia or toast of choice.
 
-#### Shrimp Po-Boy $10
+#### Shrimp Po-Boy $11
 Cornmeal-crusted fried prawns on a French roll with New Orleans-style remoulade sauce. Topped with lettuce and tomato. Served with lemon.
 
 #### BBQ Pulled Pork & Rings $10
@@ -237,14 +234,11 @@ House bubbles, raspberry vodka, pineapple and pomegranate.
 
 _Substitutions welcome with an additional charge._
 
-_18% gratuity may be charged on parties of 6 or more_
-
 _Gluten free, vegetarian, and vegan options available, substitutions welcome_
 
 **Consuming raw or uncooked meats, poultry, seafood, shellfish or eggs may increase your risk of food borne illness.*
 
-(Updated 5/6/19)
-
+(Updated 11/12/19)
 
 ## Location
 
